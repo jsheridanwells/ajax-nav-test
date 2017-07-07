@@ -1,0 +1,20 @@
+* {
+	font-family: Arial, sans-serif;
+}
+
+ul {
+	list-style-type: none;
+	display: flex;
+	flex-direction: row;
+}
+
+li {
+	margin: 2em 3em;
+}
+li:hover {
+	cursor: pointer;
+	border-bottom: 3px solid #000;
+}
+section {
+	text-align: center;
+}
